@@ -1,0 +1,1 @@
+|numJoueu| ligne  |colonne |   or   |  bois  | pierre |  fer   |souffre |sulfure |gemmes r|gemmes b|gemmes j|u.tuUes |b.gagnue|u.perdue|b.perdue|
